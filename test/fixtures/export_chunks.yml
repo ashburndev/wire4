@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  chunk: 1
+  data: 
+  size: 1
+  volume: 1
+  export: one
+
+two:
+  chunk: 1
+  data: 
+  size: 1
+  volume: 1
+  export: two

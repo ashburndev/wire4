@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  name: MyString
+  state: MyString
+  log: MyText
+  document_ids_csv: MyText
+  chunks: 1
+  expired_at: 2022-06-05 14:34:36
+  source: MyString
+  progress: 1
+  total: 1
+  context: MyText
+  attempts: 1
+  user: one
+
+two:
+  type: 
+  name: MyString
+  state: MyString
+  log: MyText
+  document_ids_csv: MyText
+  chunks: 1
+  expired_at: 2022-06-05 14:34:36
+  source: MyString
+  progress: 1
+  total: 1
+  context: MyText
+  attempts: 1
+  user: two
